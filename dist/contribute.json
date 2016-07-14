@@ -1,6 +1,6 @@
 {
-    "name": "Mozilla HTTP Observatory",
-    "description": "A free scanner that helps website operators implement proper defensive security.",
+    "name": "Mozilla HTTPS Observatory",
+    "description": "A free scanner that helps website operators implement proper defensive security when using HTTPS.",
     "repository": {
         "url": "https://github.com/mozilla/http-observatory",
         "license": "MPL2",
